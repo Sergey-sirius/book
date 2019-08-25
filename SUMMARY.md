@@ -1,10 +1,10 @@
-# Summary
+# Table of contents
 
 * [Initial page](README.md)
-* [qweqweqweqeqqq](qweqweqweqe.md)
 
 ## python2
 
+* [qweqweqweqeqqq](python2/qweqweqweqe.md)
 * [234](python2/234.md)
 * [Untitled](python2/untitled.md)
 
