@@ -7,6 +7,11 @@
 * [pag1](python/untitled.md)
 * [Pag2](python/pag2.md)
 
+## python2
+
+* [234](python2/234.md)
+* [Untitled](python2/untitled.md)
+
 ## Linux
 
 * [lin1](linux/lin1.md)
