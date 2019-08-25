@@ -2,15 +2,15 @@
 
 * [Initial page](README.md)
 
-## Python
-
-* [pag1](python/untitled.md)
-* [Pag2](python/pag2.md)
-
 ## python2
 
 * [234](python2/234.md)
 * [Untitled](python2/untitled.md)
+
+## Python
+
+* [pag1](python/untitled.md)
+* [Pag2](python/pag2.md)
 
 ## Linux
 
