@@ -12,7 +12,7 @@ description: werwerewr
 $ python -V
 ```
 
-Для установки набросал скрипт:
+Для установки набросал скрипт \(cat install\_python.sh\):
 
 ```text
 #!/bin/bash
@@ -42,5 +42,34 @@ echo "export WORKON_HOME=~/venv" >> .bashrc
 echo ". /usr/local/bin/virtualenvwrapper.sh" >> .bashrc
 exec bash
 
+```
+
+Создание виртуального окружения, c Python 3.6.3 по умолчанию:
+
+```text
+#!/bin/bash
+
+# Создание виртуального окружения, c Python 3.6.3 по умолчанию
+#mkvirtualenv --python=/usr/local/bin/python3.6 py36
+
+# переход в созданное виртуальное окружение
+# workon py36
+
+# Выход из виртуального окружения:
+# deactivate
+
+# удалить созданое окружение 
+# rmvirtualenv py36
+
+#
+# Для Python с версии 3.5 рекомендуется использовать модуль venv
+# создан необходимое окружение в папке
+python3.6 -m venv new_env/py363
+
+# перехода в виртуальное окружение
+source new_env/py363/bin/activate
+
+# Выход из виртуального окружения:
+# deactivate
 ```
 
