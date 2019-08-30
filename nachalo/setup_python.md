@@ -12,7 +12,7 @@ description: werwerewr
 $ python -V
 ```
 
-#### Для установки набросал скрипт \(cat install\_python.sh\):
+### Для установки набросал скрипт \(cat install\_python.sh\):
 
 ```text
 #!/bin/bash
@@ -46,7 +46,7 @@ exec bash
 sudo -H pip install --upgrade pip
 ```
 
-#### Переключение версии Python после установки Python3.6
+### Переключение версии Python после установки Python3.6
 
 ```text
 $ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5 1
@@ -55,7 +55,7 @@ $ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6
 $ sudo update-alternatives --config python3
 ```
 
-### Создание виртуального окружения, c Python 3.6.3 по умолчанию:
+## Создание виртуального окружения, c Python 3.6.3 по умолчанию:
 
 ```text
 #!/bin/bash
@@ -84,9 +84,9 @@ source new_env/py363/bin/activate
 # deactivate
 ```
 
-### Список [IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments/) для комфортной работы в Python
+## Список [IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments/) для комфортной работы в Python
 
-### Система управления пакетами pip
+## Система управления пакетами pip
 
 В зависимости от версии Python \(настроеного окружения\) нужно использовать pip \(2.7\) или pip3 \(3.5\)
 
