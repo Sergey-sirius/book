@@ -32,5 +32,15 @@ cd Python-3.6.3
 make -j8
 
 sudo -H make altinstall
+
+sudo -H pip3.6 install virtualenvwrapper
+
+#Перезапуск командного интерпретатора
+cd ~
+echo "export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3.6" >> .bashrc
+echo "export WORKON_HOME=~/venv" >> .bashrc
+echo ". /usr/local/bin/virtualenvwrapper.sh" >> .bashrc
+exec bash
+
 ```
 
