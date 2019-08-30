@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [О чем](README.md)
 
 ## Linux
 
