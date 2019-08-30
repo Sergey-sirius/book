@@ -73,3 +73,7 @@ source new_env/py363/bin/activate
 # deactivate
 ```
 
+Список [IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments/) для комфортной работы в Python
+
+
+
