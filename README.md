@@ -1,11 +1,8 @@
-# О чем
+---
+description: Решил писать свои заметки в GitBook.
+---
 
-2twerwrwer qwerqwerwqer qwerwerqw e rwerwer
+# О документе
 
-3 добавил новое
-
-1. werewr
-2. werwer
-3. wer
-4. werew
+Эту страничку планирую обновлять в процессе добавления разделов. Пока оставлю  как есть.
 
