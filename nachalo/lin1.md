@@ -75,5 +75,9 @@ source new_env/py363/bin/activate
 
 Список [IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments/) для комфортной работы в Python
 
+Система управления пакетами pip
 
+```text
+pip --version
+```
 
