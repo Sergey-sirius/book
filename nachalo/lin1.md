@@ -2,13 +2,11 @@
 description: werwerewr
 ---
 
-# Установка под LinuxMit
+# Установка for LinuxMint
 
 Обычно уже какая то версия уже установлена
 
-sfsdf
-
-sdfsdf
-
-sf
+```text
+$ python -V
+```
 

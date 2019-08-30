@@ -1,8 +1,8 @@
-# Summary
+# Table of contents
 
 * [О документе](README.md)
 
 ## Начало
 
-* [Установка for LinuxMint](linux/lin1.md)
+* [Установка for LinuxMint](nachalo/lin1.md)
 
