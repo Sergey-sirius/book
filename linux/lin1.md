@@ -2,9 +2,9 @@
 description: werwerewr
 ---
 
-# lin1
+# Установка под LinuxMit
 
-werwesdfdsf
+Обычно уже какая то версия уже установлена
 
 sfsdf
 
