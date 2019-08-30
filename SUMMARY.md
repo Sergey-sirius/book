@@ -4,7 +4,7 @@
 
 ## Начало
 
-* [Установка for LinuxMint](nachalo/lin1.md)
+* [Установка for LinuxMint](nachalo/setup_python.md)
 
 ## GIT - наше все :\)
 
