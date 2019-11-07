@@ -56,6 +56,16 @@ $ sudo apache2ctl configtest
 
 $ sudo systemctl restart apache2
 
+index.php  info
+
+
+
+```text
+<?php
+phpinfo();
+?>
+```
+
 download
 
 $ curl -O [https://wordpress.org/latest.tar.gz](https://wordpress.org/latest.tar.gz)
