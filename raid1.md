@@ -1,5 +1,33 @@
 # Raid1
 
+link [http://itfound.ru/57-ubuntu-raid1.html](http://itfound.ru/57-ubuntu-raid1.html)
+
+пакет $ apt-get install mdadm
+
+вдруг есть райд
+
+$ cat /proc/mdstat
+
+sudo umount /dev/md0
+
+sudo mdadm --stop /dev/md0
+
+sudo mdadm --remove /dev/md0
+
+посмотреть устройства 
+
+lsblk -o NAME,SIZE,FSTYPE,TYPE,MOUNTPOINT
+
+обнулить массивы
+
+$ sudo mdadm --zero-superblock /dev/sdc
+
+$ sudo mdadm --zero-superblock /dev/sdd
+
+проверить конф sudo nano /etc/mdadm/mdadm.conf
+
+СОЗДАНИЕ
+
 $ sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb
 
 created yes
