@@ -10,4 +10,5 @@
 
 * [Git](git-nashe-vse/git.md)
 * [Raid1](raid1.md)
+* [lamp](lamp.md)
 
