@@ -1,5 +1,7 @@
 # nginx proxy appache
 
+s
+
 
 
 ```text
@@ -54,4 +56,6 @@ sudo nano /etc/apache2/sites-available/example
 ```text
 sudo netstat -plunt
 ```
+
+
 
