@@ -43,5 +43,5 @@
 
 ## Проекты
 
-* [Untitled](proekty/untitled.md)
+* [ОСББ](proekty/untitled.md)
 
