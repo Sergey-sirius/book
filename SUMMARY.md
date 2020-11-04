@@ -24,5 +24,3 @@
 
 ## Python <a id="python-1"></a>
 
-* [Создание окружения](python-1/sozdanie-okruzheniya.md)
-
