@@ -35,6 +35,7 @@
 
 * [Проработка ТЗ "Chat"](developers/prorabotka-tz-chat.md)
 * [ПРОЕКТИРОВАНИЕ ПО](developers/proektirovanie-po.md)
+* [Scrum](developers/scrum.md)
 
 ## Ссылки <a id="links"></a>
 
