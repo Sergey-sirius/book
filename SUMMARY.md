@@ -17,7 +17,7 @@
 
 ---
 
-* [lamp](lamp.md)
+* [LAMP конфигурация](lamp.md)
 * [nginx proxy appache](nginx-proxy-appache.md)
 
 ## Linux OS
