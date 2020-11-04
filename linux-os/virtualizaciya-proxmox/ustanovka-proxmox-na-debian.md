@@ -1,2 +1,2 @@
-# Установка Proxmox на Debian
+# Установка Proxmox на Debian 10
 
