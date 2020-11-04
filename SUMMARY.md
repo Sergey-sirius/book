@@ -19,6 +19,7 @@
 ## Linux OS
 
 * [Виртуализация Proxmox](linux-os/virtualizaciya-proxmox.md)
+* [Установка Proxmox на Debian](linux-os/ustanovka-proxmox-na-debian.md)
 * [Всё для DevOps Инженера!](linux-os/vsyo-dlya-devops-inzhenera.md)
 * [Подготовка к LPIC](linux-os/podgotovka-k-lpic.md)
 * [Безопасность](linux-os/bezopasnost/README.md)
