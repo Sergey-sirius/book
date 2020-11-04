@@ -15,6 +15,8 @@
 
 ## Linux OS
 
+* [Безопасность](linux-os/bezopasnost/README.md)
+  * [SSH ключи](linux-os/bezopasnost/ssh-klyuchi.md)
 * [Web сервер](linux-os/web-server/README.md)
   * [nginx proxy appache](linux-os/web-server/nginx-proxy-appache.md)
   * [LAMP конфигурация](linux-os/web-server/lamp.md)
