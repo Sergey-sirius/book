@@ -1,11 +1,8 @@
 # Table of contents
 
 * [О заметках "IT Notes"](README.md)
-* [К разделу о заметках](k-razdelu-o-zametkakh.md)
 
 ## 1 Python install and settings <a id="ustanovka-pythona"></a>
-
-* [Install tested for LinuxMint](ustanovka-pythona/untitled.md)
 
 ## GIT - наше все :\)
 
@@ -26,4 +23,8 @@
 ---
 
 * [О заметках "IT Notes"1](o-zametkakh-it-notes-1.md)
+
+## Python <a id="python-1"></a>
+
+* [Install - Linux Mint](python-1/install-linux-mint.md)
 
