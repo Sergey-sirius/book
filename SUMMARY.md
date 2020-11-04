@@ -13,16 +13,11 @@
 
 * [Git](git-nashe-vse/git.md)
 
-## Установка Pythona2 <a id="python"></a>
-
----
-
-* [LAMP конфигурация](lamp.md)
-* [nginx proxy appache](nginx-proxy-appache.md)
-
 ## Linux OS
 
-* [Web сервер](linux-os/web-server.md)
+* [Web сервер](linux-os/web-server/README.md)
+  * [nginx proxy appache](linux-os/web-server/nginx-proxy-appache.md)
+  * [LAMP конфигурация](linux-os/web-server/lamp.md)
 * [Статьи по работе с дисками](linux-os/stati-po-rabote-s-diskami/README.md)
   * [Организация Raid1](linux-os/stati-po-rabote-s-diskami/raid1.md)
 
