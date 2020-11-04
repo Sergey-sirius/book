@@ -23,5 +23,3 @@
 
 ## About
 
-* [Untitled](about/untitled.md)
-
