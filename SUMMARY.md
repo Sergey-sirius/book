@@ -32,5 +32,5 @@
 
 ## Ссылки <a id="links"></a>
 
-* [Untitled](links/untitled.md)
+* [Ссылки по JS](links/untitled.md)
 
