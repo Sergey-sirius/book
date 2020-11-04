@@ -23,3 +23,7 @@
 
 ## About
 
+---
+
+* [О заметках "IT Notes"1](o-zametkakh-it-notes-1.md)
+
