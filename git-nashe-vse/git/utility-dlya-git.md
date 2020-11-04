@@ -23,5 +23,5 @@ source ~/.bash-git-prompt/gitprompt.sh
 
 Для GUI очень неплохой продукт [GitKraken](https://www.gitkraken.com/), для различных версий линукс и виндовс.
 
-
+![](../../.gitbook/assets/gk1.png)
 
