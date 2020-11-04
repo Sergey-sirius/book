@@ -20,7 +20,4 @@
 * [Raid1](raid1.md)
 * [lamp](lamp.md)
 * [nginx proxy appache](nginx-proxy-appache.md)
-* [О заметках "IT Notes"1](o-zametkakh-it-notes-1.md)
-
-## Python <a id="python-1"></a>
 
