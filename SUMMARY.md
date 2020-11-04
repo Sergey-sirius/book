@@ -11,7 +11,7 @@
 
 ## GIT - наше все :\)
 
-* [Git](git-nashe-vse/git.md)
+* [Продукты Git](git-nashe-vse/git.md)
 
 ## Linux OS
 

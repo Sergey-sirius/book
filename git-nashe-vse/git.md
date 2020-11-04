@@ -2,7 +2,7 @@
 description: возможности
 ---
 
-# Git
+# Продукты Git
 
 ## Продукты github
 
