@@ -12,6 +12,7 @@
 ## GIT - наше все :\)
 
 * [Продукты Git](git-nashe-vse/git/README.md)
+  * [Комманды Git](git-nashe-vse/git/kommandy-git.md)
   * [Настройка Git](git-nashe-vse/git/nastroika-git.md)
   * [Утилиты для Git](git-nashe-vse/git/utility-dlya-git.md)
 
