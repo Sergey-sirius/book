@@ -1,6 +1,7 @@
 # Table of contents
 
 * [О заметках "IT Notes"](README.md)
+* [К разделу о заметках](k-razdelu-o-zametkakh.md)
 
 ## 1 Python install and settings <a id="ustanovka-pythona"></a>
 
