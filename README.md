@@ -1,7 +1,8 @@
 ---
 description: >-
   Эту страничку планирую обновлять в процессе. Пока что линк будет
-  https://itnote.ksw.su/.
+  https://itnote.ksw.su/.  Комментарии отправляйте на
+  https://t.me/sirius_channel_chat
 ---
 
 # О заметках "IT Notes"
