@@ -4,7 +4,8 @@
 
 ## 1 Python
 
-* [Untitled111](1-python/untitled111.md)
+* [Untitled111](1-python/untitled111/README.md)
+  * [Install](1-python/untitled111/install-linux-mint.md)
 
 ## 1 Python install and settings <a id="ustanovka-pythona"></a>
 
@@ -25,7 +26,6 @@
 
 ## Python <a id="python-1"></a>
 
-* [Install - Linux Mint](python-1/install-linux-mint.md)
 * [Переключение версии Python](python-1/aktivaciya-okruzheniya.md)
 * [Создание окружения](python-1/sozdanie-okruzheniya.md)
 

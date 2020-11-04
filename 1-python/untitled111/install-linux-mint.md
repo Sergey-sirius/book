@@ -1,4 +1,8 @@
-# Install - Linux Mint
+---
+description: проверено  Linux Mint 20
+---
+
+# Install
 
 ## **Проверить и установить в системе Python.**
 
