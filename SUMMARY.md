@@ -26,6 +26,7 @@
   * [nginx proxy appache](linux-os/web-server/nginx-proxy-appache.md)
   * [LAMP конфигурация](linux-os/web-server/lamp.md)
 * [Статьи по работе с дисками](linux-os/stati-po-rabote-s-diskami/README.md)
+  * [Виртуализация Proxmox](linux-os/stati-po-rabote-s-diskami/virtualizaciya-proxmox.md)
   * [Организация Raid1](linux-os/stati-po-rabote-s-diskami/raid1.md)
 
 ## Разработка ПО <a id="developers"></a>
