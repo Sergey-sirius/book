@@ -1,6 +1,6 @@
 # Table of contents
 
-* [О документе](README.md)
+* [О заметках "IT Notes"](README.md)
 
 ## 1 Python install and settings <a id="ustanovka-pythona"></a>
 
