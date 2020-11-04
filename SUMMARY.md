@@ -17,11 +17,12 @@
 
 ---
 
-* [Организация Raid1](raid1.md)
 * [lamp](lamp.md)
 * [nginx proxy appache](nginx-proxy-appache.md)
 
 ## Linux OS
 
-* [Статьи по работе с дисками](linux-os/stati-po-rabote-s-diskami.md)
+* [Web сервер](linux-os/web-server.md)
+* [Статьи по работе с дисками](linux-os/stati-po-rabote-s-diskami/README.md)
+  * [Организация Raid1](linux-os/stati-po-rabote-s-diskami/raid1.md)
 
