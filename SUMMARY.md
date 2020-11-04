@@ -10,7 +10,8 @@
 
 ## Установка Pythona2 <a id="python"></a>
 
-* [Установка for LinuxMint](python/setup_python.md)
+* [Установка for LinuxMint](python/setup_python/README.md)
+  * [Untitled](python/setup_python/untitled.md)
 
 ---
 
