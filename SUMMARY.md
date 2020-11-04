@@ -24,6 +24,7 @@
   * [nginx proxy appache](linux-os/web-server/nginx-proxy-appache.md)
   * [LAMP конфигурация](linux-os/web-server/lamp.md)
 * [Статьи по работе с дисками](linux-os/stati-po-rabote-s-diskami/README.md)
+  * [Подготовка к LPIC](linux-os/stati-po-rabote-s-diskami/podgotovka-k-lpic.md)
   * [Организация Raid1](linux-os/stati-po-rabote-s-diskami/raid1.md)
 
 ## Разработка ПО <a id="developers"></a>
