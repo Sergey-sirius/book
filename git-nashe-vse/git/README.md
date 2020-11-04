@@ -14,7 +14,7 @@ description: возможности
 
 [GitBook](https://www.gitbook.com/) - платформа для публикации книг, документации или подобного тому.
 
-#### [Настройка ssh ключей](https://itnote.ksw.su/linux-os/bezopasnost/ssh-klyuchi) там же как пример для github
+#### [Настройка ssh ключей](https://itnote.ksw.su/linux-os/bezopasnost/ssh-klyuchi) там же как [пример для github](https://itnote.ksw.su/linux-os/bezopasnost/ssh-klyuchi#bezopasnost-dlya-github) 
 
 #### ~~~~[Установка Git **и настройка Git**](https://itnote.ksw.su/git-nashe-vse/git/nastroika-git)\*\*\*\*
 
