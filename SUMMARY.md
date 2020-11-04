@@ -34,6 +34,7 @@
 ## Разработка ПО <a id="developers"></a>
 
 * [Проработка ТЗ "Chat"](developers/prorabotka-tz-chat.md)
+* [ПРОЕКТИРОВАНИЕ ПО](developers/proektirovanie-po.md)
 
 ## Ссылки <a id="links"></a>
 
