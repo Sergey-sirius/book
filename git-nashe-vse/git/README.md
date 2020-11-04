@@ -18,26 +18,7 @@ description: возможности
 
 #### ~~~~[Установка Git **и настройка Git**](https://itnote.ksw.su/git-nashe-vse/git/nastroika-git)\*\*\*\*
 
-**Отображение статуса репозитория**
-
-Установка дополнительной [утилиты](https://github.com/magicmonty/bash-git-prompt/). 
-
-```text
-$ cd ~
-
-$ git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1
-```
-
- добавить в конец файла .bashrc строки:
-
-```text
-GIT_PROMPT_ONLY_IN_REPO=1
-source ~/.bash-git-prompt/gitprompt.sh
-```
-
-теперь при переходе в папку репозитория нам отображается в какой ветке мы находимся.
-
-Для GUI очень неплохой продукт [GitKraken](https://www.gitkraken.com/), для различных версий линукс и виндовс.
+#### [Утилиты для Git](https://itnote.ksw.su/git-nashe-vse/git/utility-dlya-git)
 
 ## **Инициализация репозитория**
 
