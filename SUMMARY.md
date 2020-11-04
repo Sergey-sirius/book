@@ -2,13 +2,17 @@
 
 * [О документе](README.md)
 
-## Установка Pythona2 <a id="python"></a>
+## 1 Python install and settings <a id="ustanovka-pythona"></a>
 
-* [Установка for LinuxMint](python/setup_python.md)
+* [Untitled](ustanovka-pythona/untitled.md)
 
 ## GIT - наше все :\)
 
 * [Git](git-nashe-vse/git.md)
+
+## Установка Pythona2 <a id="python"></a>
+
+* [Установка for LinuxMint](python/setup_python.md)
 
 ---
 
