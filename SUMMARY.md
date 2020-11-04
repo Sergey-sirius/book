@@ -43,5 +43,6 @@
 
 ## Проекты <a id="myproject"></a>
 
+* [Старые проекты](myproject/starye-proekty.md)
 * [ОСББ](myproject/untitled.md)
 

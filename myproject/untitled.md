@@ -4,3 +4,8 @@ description: 'https://drive.google.com/drive/folders/1uyf-AfMYDqSWK1-pc5ZjbrjjsW
 
 # ОСББ
 
+Управленческий учет TREND  
+[https://drive.google.com/drive/folders/1YSFS0ege3SvfM-HmllMJBIlP9PCgS98u](https://drive.google.com/drive/folders/1YSFS0ege3SvfM-HmllMJBIlP9PCgS98u)  
+  
+
+
