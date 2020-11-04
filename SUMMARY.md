@@ -2,13 +2,16 @@
 
 * [О документе](README.md)
 
-## Начало
+## Установка Pythona2 <a id="python"></a>
 
-* [Установка for LinuxMint](nachalo/setup_python.md)
+* [Установка for LinuxMint](python/setup_python.md)
 
 ## GIT - наше все :\)
 
 * [Git](git-nashe-vse/git.md)
+
+---
+
 * [Raid1](raid1.md)
 * [lamp](lamp.md)
 * [nginx proxy appache](nginx-proxy-appache.md)
