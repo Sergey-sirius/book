@@ -41,7 +41,7 @@
 
 * [Ссылки по JS](links/untitled.md)
 
-## Проекты
+## Проекты <a id="project"></a>
 
-* [ОСББ](proekty/untitled.md)
+* [ОСББ](project/untitled.md)
 
