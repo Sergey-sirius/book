@@ -14,7 +14,7 @@
 
 ## Установка Pythona2 <a id="python"></a>
 
-* [Установка for LinuxMint](python/setup_python.md)
+* [Создание виртуального окружения](python/setup_python.md)
 
 ---
 
