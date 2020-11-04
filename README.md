@@ -9,3 +9,5 @@ description: >-
      Решил буду переносить свои заметки в GitBook. Раньше использовал Pelican \(SSG markdown\), но в плане работы больше понравился [gitbook](https://www.gitbook.com/) - который хранит все репозитории [github](https://github.com/).  
 
 
+Один из старых SSG на jekyll [https://github.com/Sergey-sirius/sergey-sirius.github.io](https://github.com/Sergey-sirius/sergey-sirius.github.io)
+
