@@ -30,7 +30,7 @@
 
 * [Проработка ТЗ "Chat"](razrabotka-po/prorabotka-tz-chat.md)
 
-## Ссылки
+## Ссылки <a id="links"></a>
 
-* [Untitled](ssylki/untitled.md)
+* [Untitled](links/untitled.md)
 
