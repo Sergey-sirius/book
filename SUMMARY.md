@@ -28,4 +28,5 @@
 
 * [Install - Linux Mint](python-1/install-linux-mint.md)
 * [Переключение версии Python](python-1/aktivaciya-okruzheniya.md)
+* [Создание окружения](python-1/sozdanie-okruzheniya.md)
 
