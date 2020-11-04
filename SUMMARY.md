@@ -4,7 +4,7 @@
 
 ## 1 Python install and settings <a id="ustanovka-pythona"></a>
 
-* [Untitled](ustanovka-pythona/untitled.md)
+* [Install tested for LinuxMint](ustanovka-pythona/untitled.md)
 
 ## GIT - наше все :\)
 
