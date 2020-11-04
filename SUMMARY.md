@@ -4,8 +4,8 @@
 
 ## 1 Python
 
-* [Установка и настройка Python](1-python/untitled111/README.md)
-  * [Install](1-python/untitled111/install-linux-mint.md)
+* [Установка и настройка Python](1-python/install_python/README.md)
+  * [Install](1-python/install_python/install-linux-mint.md)
 
 ## 1 Python install and settings <a id="ustanovka-pythona"></a>
 
