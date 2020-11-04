@@ -2,10 +2,10 @@
 
 * [О заметках "IT Notes"](README.md)
 
-## 1 Python
+## Python <a id="python_docs"></a>
 
-* [Установка и настройка Python](1-python/install_python/README.md)
-  * [Install](1-python/install_python/install-linux-mint.md)
+* [Установка и настройка Python](python_docs/install_python/README.md)
+  * [Install](python_docs/install_python/install-linux-mint.md)
 
 ## 1 Python install and settings <a id="ustanovka-pythona"></a>
 
