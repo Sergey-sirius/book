@@ -58,3 +58,9 @@ Hi username! You've successfully authenticated, but GitHub does not provide shel
 
 
 
+## Алгоритм работы SSH
+
+{% embed url="https://drive.google.com/drive/folders/13dDovNf5YHwtcU9mNtBVKqGEZG539tQO" %}
+
+## 2
+
