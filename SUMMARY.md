@@ -11,8 +11,8 @@
 
 ## GIT - наше все :\)
 
-* [Продукты Git](git-nashe-vse/git.md)
-* [Настройка Git](git-nashe-vse/nastroika-git.md)
+* [Продукты Git](git-nashe-vse/git/README.md)
+  * [Настройка Git](git-nashe-vse/git/nastroika-git.md)
 
 ## Linux OS
 
