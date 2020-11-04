@@ -22,40 +22,5 @@ description: возможности
 
 ## \*\*\*\*
 
-## Аутентификация на GitHub
-
-После регистрации на Github для удобства и безопасности работы лучше использовать аутентификацию по ключам SSH. При генерации нового SSH-ключа используйте e-mail, привязаный к GitHub:
-
-```text
-$ cd ~/.ssh
-$ ssh-keygen -t rsa -b 4096 -C "mail_account@gmail.com"
-```
-
-При генерации ключ сохраним под именем githubkey.
-
-```text
-#запуск агента
-$ eval "$(ssh-agent -s)"
-
-# добавить ключ в агент
-$ ssh-add ~/.ssh/githubkey
-```
-
-Для добавления сгенерированого ключа надо его скопировать.
-
-```text
-$ cat ~/.ssh/githubkey.pub
-```
-
-Заходим на страницу «Settings» GitHub, выбрать поле «SSH and GPG keys» и вставляем ключ.
-
-Чтобы проверить, всё ли прошло успешно, попробуйте выполнить команду.
-
-```text
-$ ssh -T git@github.com
-
-Hi username! You've successfully authenticated, but GitHub does not provide shell access.
-```
-
 
 
