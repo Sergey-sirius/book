@@ -18,10 +18,11 @@
 
 ## Linux OS
 
-* [Виртуализация Proxmox](linux-os/virtualizaciya-proxmox.md)
-* [Установка Proxmox на Debian](linux-os/ustanovka-proxmox-na-debian.md)
+* [Виртуализация Proxmox](linux-os/virtualizaciya-proxmox/README.md)
+  * [Установка Proxmox на Debian](linux-os/virtualizaciya-proxmox/ustanovka-proxmox-na-debian.md)
 * [Всё для DevOps Инженера!](linux-os/vsyo-dlya-devops-inzhenera.md)
-* [Подготовка к LPIC](linux-os/podgotovka-k-lpic.md)
+* [Подготовка к LPIC](linux-os/podgotovka-k-lpic/README.md)
+  * [101.1 Определение и настройка аппаратной части](linux-os/podgotovka-k-lpic/101.1-opredelenie-i-nastroika-apparatnoi-chasti.md)
 * [Безопасность](linux-os/bezopasnost/README.md)
   * [SSH ключи](linux-os/bezopasnost/ssh-klyuchi.md)
 * [Web сервер](linux-os/web-server/README.md)
