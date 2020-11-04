@@ -7,14 +7,13 @@
 * [Установка и настройка Python](python_docs/install_python/README.md)
   * [Install](python_docs/install_python/install-linux-mint.md)
   * [Переключение версии Python](python_docs/install_python/aktivaciya-okruzheniya.md)
+  * [Создание виртуального окружения](python_docs/install_python/setup_python.md)
 
 ## GIT - наше все :\)
 
 * [Git](git-nashe-vse/git.md)
 
 ## Установка Pythona2 <a id="python"></a>
-
-* [Создание виртуального окружения](python/setup_python.md)
 
 ---
 
