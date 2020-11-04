@@ -1,4 +1,8 @@
-# Raid1
+---
+description: ubuntu
+---
+
+# Организация Raid1
 
 link [http://itfound.ru/57-ubuntu-raid1.html](http://itfound.ru/57-ubuntu-raid1.html)
 
