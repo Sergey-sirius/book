@@ -27,5 +27,5 @@
 ## Python <a id="python-1"></a>
 
 * [Install - Linux Mint](python-1/install-linux-mint.md)
-* [Активация окружения](python-1/aktivaciya-okruzheniya.md)
+* [Переключение версии Python](python-1/aktivaciya-okruzheniya.md)
 
