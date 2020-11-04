@@ -10,8 +10,7 @@
 
 ## Установка Pythona2 <a id="python"></a>
 
-* [Установка for LinuxMint](python/setup_python/README.md)
-  * [Untitled](python/setup_python/untitled.md)
+* [Установка for LinuxMint](python/setup_python.md)
 
 ---
 
@@ -28,4 +27,5 @@
 ## Python <a id="python-1"></a>
 
 * [Install - Linux Mint](python-1/install-linux-mint.md)
+* [Активация окружения](python-1/aktivaciya-okruzheniya.md)
 
