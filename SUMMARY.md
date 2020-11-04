@@ -18,6 +18,7 @@
 
 ## Linux OS
 
+* [Всё для DevOps Инженера!](linux-os/vsyo-dlya-devops-inzhenera.md)
 * [Подготовка к LPIC](linux-os/podgotovka-k-lpic.md)
 * [Безопасность](linux-os/bezopasnost/README.md)
   * [SSH ключи](linux-os/bezopasnost/ssh-klyuchi.md)
@@ -25,7 +26,6 @@
   * [nginx proxy appache](linux-os/web-server/nginx-proxy-appache.md)
   * [LAMP конфигурация](linux-os/web-server/lamp.md)
 * [Статьи по работе с дисками](linux-os/stati-po-rabote-s-diskami/README.md)
-  * [Всё для DevOps Инженера!](linux-os/stati-po-rabote-s-diskami/vsyo-dlya-devops-inzhenera.md)
   * [Организация Raid1](linux-os/stati-po-rabote-s-diskami/raid1.md)
 
 ## Разработка ПО <a id="developers"></a>
