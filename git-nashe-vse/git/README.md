@@ -14,21 +14,9 @@ description: возможности
 
 [GitBook](https://www.gitbook.com/) - платформа для публикации книг, документации или подобного тому.
 
-## [Настройка ssh ключей линк](https://itnote.ksw.su/linux-os/bezopasnost/ssh-klyuchi)
+#### [Настройка ssh ключей](https://itnote.ksw.su/linux-os/bezopasnost/ssh-klyuchi)
 
-## Установка Git **и настройка Git**
-
-```text
-$ sudo apt-get install git
-```
-
-```text
-$ git config --global user.name "username"
-$ git config --global user.email "username.user@example.com"
-
-# посмотреть настройки
-$ git config --list
-```
+#### ~~~~[Установка Git **и настройка Git**](https://itnote.ksw.su/git-nashe-vse/git/nastroika-git)\*\*\*\*
 
 **Отображение статуса репозитория**
 

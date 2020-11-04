@@ -13,6 +13,7 @@
 
 * [Продукты Git](git-nashe-vse/git/README.md)
   * [Настройка Git](git-nashe-vse/git/nastroika-git.md)
+  * [Утилиты для Git](git-nashe-vse/git/utility-dlya-git.md)
 
 ## Linux OS
 
