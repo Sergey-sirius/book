@@ -26,9 +26,9 @@
 * [Статьи по работе с дисками](linux-os/stati-po-rabote-s-diskami/README.md)
   * [Организация Raid1](linux-os/stati-po-rabote-s-diskami/raid1.md)
 
-## Разработка ПО
+## Разработка ПО <a id="developers"></a>
 
-* [Проработка ТЗ "Chat"](razrabotka-po/prorabotka-tz-chat.md)
+* [Проработка ТЗ "Chat"](developers/prorabotka-tz-chat.md)
 
 ## Ссылки <a id="links"></a>
 
